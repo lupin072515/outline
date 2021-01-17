@@ -1,9 +1,9 @@
-<h1>
-  <p>Project name: outline
-<h1>
+
+  Project name: outline
+
     <body>
     
-    <p>Description: Python Github Online<p>
+ Description: Python Github Online
  <h1>
    Table of Contents:
   Installation:
