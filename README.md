@@ -1,11 +1,8 @@
 
   Project name: outline
 
-    <body>
-    
- Description: Python Github Online
- <h1>
-   Table of Contents:
+  Description: Python Github Online
+  Table of Contents:
   Installation:
   Usage:
   Contributing:
